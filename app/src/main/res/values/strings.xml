@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC Phrase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="title_activity_about">ABOUT ALC</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="track_android">Track:     Android</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="country_ghana">Country:     Ghana</string>
+    <string name="email_ayekpleclemence_gmail_com">Email:    ayekpleclemence@gmail.com</string>
+    <string name="todo">TODO</string>
+    <string name="clemence_ayekple">Clemence Ayekple</string>
+    <string name="phone_number">Phone Number:      +233209930725</string>
+    <string name="my_profile">My Profile</string>
+    <string name="title_activity_profile">MY PROFILE</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Value Notification</string>
+</resources>
