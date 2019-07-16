@@ -5,10 +5,10 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="track_android">Track:     Android</string>
-    <string name="slack_username">Slack Username</string>
-    <string name="country_ghana">Country:     Ghana</string>
-    <string name="email_ayekpleclemence_gmail_com">Email:    ayekpleclemence@gmail.com</string>
+    <string name="track">Android</string>
+    <string name="slack">. @Clemence Ayekple </string>
+    <string name="country">Ghana</string>
+    <string name="email">ayekpleclemence@gmail.com</string>
     <string name="todo">TODO</string>
     <string name="clemence_ayekple">Clemence Ayekple</string>
     <string name="phone_number">Phone Number:      +233209930725</string>
